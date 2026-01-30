@@ -2,7 +2,7 @@
 
 **OVERVIEW**
 
-My first dashboard as a data analyst built in excel to analyze revenue, montly trend an dperformance **
+My first dashboard as a data analyst built in excel to analyze revenue, montly trend and performance 
 I analyzed retail electronics sales data to understand:
 - Revenue performance over time  
 - Customer behavior (Retail vs Wholesale)  
