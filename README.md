@@ -57,7 +57,7 @@ Product details:
 - Insight generation  
 - Basic reporting
 
-  **Executive Summary**
+  **Summary**
   
 Produced business insights answering:
 - Biggest revenue drivers
